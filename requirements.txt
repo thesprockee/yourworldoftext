@@ -1,2 +1,2 @@
-Django==1.2.1
-django-registration==0.7
+Django==4.2.16
+django-registration==3.1.2
